@@ -9,9 +9,7 @@ int main(int argc, char *argv[])
 
 #ifdef DEBUG
     spdlog::info("Debug macro");
-#endif
-
-#ifdef RELEASE
+#else
     spdlog::info("Release macro");
 #endif
 
