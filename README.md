@@ -7,7 +7,7 @@ Include
 
 Download
 ```bash
-$ git clone --recursive https://github.com/ppd0523/cpp-templete.git
+$ git clone --recursive https://github.com/ppd0523/cpp-template.git
 ```
 
 Build
