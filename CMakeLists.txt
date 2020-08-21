@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(cpp-templete)
+project(cpp-template)
 
 # Build debugging
 # 만일 CMAKE_VERBOSE_MAKEFILE 이면 true(or 1), makefile 빌드 메세지를 상세히 출력

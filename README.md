@@ -1,4 +1,4 @@
-# CPP Project Templete with CMake
+# CPP Project Template with CMake
 
 Include
 * googletest
